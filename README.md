@@ -47,6 +47,10 @@ the ratio of 6:2:2. The complete ACR dataset can be accessed [here](https://pubs
 ## Preparations Before Running
 1. Please download [seyonec/ChemBERTa-zinc-base-v1](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) 
 from HuggingFace and place it in the `ChemBERTa` directory of this project.
+2. The pre-trained weights (`checkpoints`) and partial required dependencies (`requirements`) 
+can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1uWcz-SB0SigH7W3lgadXKSYlGLwhavS0?usp=sharing).
+ After downloading, please place them in the corresponding folders.
+
 
 ---
 ## Training & Evaluation
