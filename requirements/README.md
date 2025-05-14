@@ -1,1 +1,1 @@
-Please download the contents in the `requirements` directory in [Google Drive](https://drive.google.com/drive/folders/1uWcz-SB0SigH7W3lgadXKSYlGLwhavS0?usp=sharing) and place them in the current directory.
+Please download the contents in the `requirements` directory in [Google Drive](https://drive.google.com/drive/folders/1HDeS0IK6V1gwGixyFW02o6ueTPrHIiID?usp=sharing) and place them in the current directory.
