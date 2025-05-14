@@ -44,6 +44,11 @@ is divided into a training set, a validation set and a test set according to
 the ratio of 6:2:2. The complete ACR dataset can be accessed [here](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc03902a).
 
 ---
+## Preparations Before Running
+1. Please download [seyonec/ChemBERTa-zinc-base-v1](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) 
+from HuggingFace and place it in the `ChemBERTa` directory of this project.
+
+---
 ## Training & Evaluation
 
 We have provided the model weights and configuration files trained on each benchmark dataset

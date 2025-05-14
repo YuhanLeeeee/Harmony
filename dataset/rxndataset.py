@@ -10,7 +10,7 @@ from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from rdkit.Chem.rdFingerprintGenerator import GetMorganGenerator
 
-tokenizer = AutoTokenizer.from_pretrained("./ChemBERTa-2")
+tokenizer = AutoTokenizer.from_pretrained("./ChemBERTa")
 
 
 class Molecule:

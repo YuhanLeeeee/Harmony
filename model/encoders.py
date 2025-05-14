@@ -90,7 +90,7 @@ class SMILES_Encoder(nn.Module):
                  num_heads,  # 2
                  num_layers,  # 4
                  context_length=1024,  # 512
-                 model_path='./ChemBERTa-2',
+                 model_path='./ChemBERTa',
                  output_dim=512,  # 1024
                  lock=True,
                  initialize=False,

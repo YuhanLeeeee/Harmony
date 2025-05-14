@@ -61,7 +61,7 @@ src_file = ["./config.yaml",
             "./utils.py",
             "./model/encoders.py",
             "./model/mmmodel.py"]
-model_path = './ChemBERTa-2'
+model_path = 'ChemBERTa'
 
 model = Harmony(1024,
                 9,  # node_in_feats(gnn)

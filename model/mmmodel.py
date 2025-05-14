@@ -69,7 +69,7 @@ class Harmony(nn.Module):
                  g_hidden_size, num_step_mp, num_step_set2set, num_layer_set2set, g_output_dim,
                  vocab_size, s_embed_dim, num_heads, num_layers, context_length, s_output_dim,
                  predict_hidden_dim, prob_dropout,
-                 model_path='./ChemBERTa-2',
+                 model_path='./ChemBERTa',
                  ):
         super(Harmony, self).__init__()
 
