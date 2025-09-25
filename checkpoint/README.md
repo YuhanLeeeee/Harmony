@@ -1,1 +1,1 @@
-Please download the contents in the `checkpoint` directory in [Google Drive](https://drive.google.com/drive/folders/1HDeS0IK6V1gwGixyFW02o6ueTPrHIiID?usp=sharing) and place them in the current directory.
+Please download the contents in the `checkpoint` directory in [Google Drive](https://drive.google.com/drive/folders/1w6EvPLQ7Oe5_ar_P5pKfLWblctvFOT1j?usp=drive_link) and place them in the current directory.
